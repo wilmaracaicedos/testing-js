@@ -1,0 +1,13 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Wilmar Caicedo <wilmarcaicedo@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
